@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fish">
+        <item>Щука</item>
+        <item>Карась</item>
+        <item>Судак</item>
+    </string-array>
+    <string-array name="fish_desc">
+        <item>Щука сука</item>
+        <item>Карась иди нахуй я не придумал. Карась иди нахуй я не придумал. Карась иди нахуй я не придумал. Карась иди нахуй я не придумал. </item>
+        <item>Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!</item>
+    </string-array>
+    <array name="fish_image">
+        <item>@drawable/shuka</item>
+        <item>@drawable/karas</item>
+        <item>@drawable/sudak</item>
+    </array>
+
+    <string-array name="na">
+        <item>Я наживка</item>
+        <item>Я карта</item>
+        <item>Я сила земли</item>
+    </string-array>
+    <string-array name="na_desc">
+        <item>Щука сука</item>
+        <item>Карась иди нахуй я не придумал. Карась иди нахуй я не придумал. Карась иди нахуй я не придумал. Карась иди нахуй я не придумал. </item>
+        <item>Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!Судак - мудак!</item>
+    </string-array>
+    <array name="na_image">
+        <item>@drawable/shuka</item>
+        <item>@drawable/karas</item>
+        <item>@drawable/sudak</item>
+    </array>
+
+</resources>
